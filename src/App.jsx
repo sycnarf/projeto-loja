@@ -6,7 +6,10 @@ import { usarCarrinho } from "./context/CarrinhoContext";
 
 export default function App() {
   const { itens } = usarCarrinho();
-  const quantidadeDeItens = itens.reduce((s, it) => s + (it.quantidade || 1), 0);
+  const quantidadeDeItens = itens.reduce(
+    (s, it) => s + (it.quantidade || 1),
+    0,
+  );
   return (
     <div className="app-root">
       <header className="cabecalho-site navbar">
