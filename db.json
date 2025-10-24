@@ -1,0 +1,44 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "titulo": "produto 1",
+      "preco": 99.99,
+      "nota": 3.9,
+      "imagem": "https://placehold.co/300x200/black/white/png/?text=prod+1",
+      "descricao": "Descrição do produto 1."
+    },
+    {
+      "id": "2",
+      "titulo": "produto 2",
+      "preco": 369.82,
+      "nota": 4.2,
+      "imagem": "https://placehold.co/300x200/black/white/png/?text=prod+2",
+      "descricao": "Descrição do produto 2."
+    },
+    {
+      "id": "3",
+      "titulo": "produto 3",
+      "preco": 80.99,
+      "nota": 4.9,
+      "imagem": "https://placehold.co/300x200/black/white/png/?text=prod+3",
+      "descricao": "Descrição do produto 3."
+    },
+    {
+      "id": "4",
+      "titulo": "produto 4",
+      "preco": 9.98,
+      "nota": 4.3,
+      "imagem": "https://placehold.co/300x200/black/white/png/?text=prod+4",
+      "descricao": "Descrição do produto 4."
+    },
+    {
+      "id": "5",
+      "titulo": "produto 5",
+      "preco": 124.9,
+      "nota": 4.8,
+      "imagem": "https://placehold.co/300x200/black/white/png/?text=prod+5",
+      "descricao": "Descrição do produto 5."
+    }
+  ]
+}

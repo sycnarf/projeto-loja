@@ -1,0 +1,21 @@
+:root {
+  --bs-primary: #0d6efd;
+  --app-accent: #ffb703;
+}
+
+body {
+  background: #f8f9fa;
+  overflow-y: scroll;
+}
+
+.header {
+  background: var(--bs-primary);
+  color: white;
+  padding: 1rem;
+}
+
+.footer {
+  padding: 1rem;
+  text-align: center;
+  background: #e9ecef;
+}
