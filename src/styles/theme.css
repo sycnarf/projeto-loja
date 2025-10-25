@@ -1,5 +1,5 @@
 :root {
-  --bs-primary: #0d6efd;
+  --bs-primary: #1c5670;
   --app-accent: #ffb703;
 }
 
@@ -11,7 +11,7 @@ body {
 .header {
   background: var(--bs-primary);
   color: white;
-  padding: 1rem;
+  padding: 1.5rem;
 }
 
 .footer {

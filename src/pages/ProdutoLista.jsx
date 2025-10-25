@@ -6,10 +6,13 @@ import { usarCarrinho } from "../context/CarrinhoContext";
 export default function ProdutoLista() {
   const { adicionarAoCarrinho } = usarCarrinho();
   const [produtos, setProdutos] = useState([]);
+  const [erro, setErro] = useState(null);
 
   useEffect(() => {
-    obterProdutos().then(setProdutos);
+    obterProdutos().then(setProdutos).catch(setErro);
   }, []);
+
+  if (erro) return <div>Erro ao carregar os produtos.</div>;
 
   return (
     <section className="produtos">
@@ -29,7 +32,7 @@ export default function ProdutoLista() {
                     xmlns="http://www.w3.org/2000/svg"
                     width="18"
                     height="18"
-                    fill="orange"
+                    fill="var(--app-accent)"
                     class="bi bi-star-fill ms-1 mb-1"
                     viewBox="0 0 16 16"
                   >

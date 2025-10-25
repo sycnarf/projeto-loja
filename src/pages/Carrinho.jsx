@@ -36,9 +36,7 @@ export default function Carrinho() {
         <div className="alert alert-success" role="alert">
           <div>
             <h5 className="alert-heading">Compra efetuada com sucesso!</h5>
-            <Link to="/" className="btn btn-primary">
-              Voltar à loja
-            </Link>
+            <Link to="/">Voltar à loja</Link>
           </div>
         </div>
       ) : (

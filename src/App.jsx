@@ -14,7 +14,7 @@ export default function App() {
     <div className="app-root">
       <header className="header navbar">
         <div className="container d-flex justify-content-between align-items-center">
-          <h1 className="h4 text-white m-0">Loja de Tralhas</h1>
+          <h1 className="h4 text-white m-0">Loja de Tralhas do Paulão</h1>
           <nav className="nav">
             <Link
               to="/"
