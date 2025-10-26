@@ -1,0 +1,76 @@
+{
+  "produtos": [
+    {
+      "id": "1",
+      "titulo": "Motoserra",
+      "preco": 569.99,
+      "nota": 4.2,
+      "imagem": "images/produto1.jpg",
+      "descricao": "Extremamente confiável a Motosserra MS 212 foi projetada para atender uma variedade de necessidades, com peças intercambiáveis que facilitam a manutenção. Seu sistema de diagnóstico eficiente permite a rápida detecção de falhas, já o motor 2-MIX proporciona um desempenho eficiente e econômico. É uma escolha para uso ocasional, bem como para jardinagem, marceneiros e fazendeiros. É uma ferramenta robusta e fácil de usar que oferece um desempenho excepcional para todas as suas necessidades de corte de madeira."
+    },
+    {
+      "id": "2",
+      "titulo": "Makita",
+      "preco": 369.82,
+      "nota": 4.7,
+      "imagem": "images/produto2.jpg",
+      "descricao": "Serra circular 185MM 1600W HS7010 127VA Makita é uma ferramenta versátil para realização dos mais variados cortes em madeira e metal. Contém ajuste de ângulo da base, motor de alta potência que possibilita cortes rápidos, dupla isolação que eleva a segurança do operador e é Base de adaptável a coletor/aspirador de pó."
+    },
+    {
+      "id": "3",
+      "titulo": "Pá",
+      "preco": 80.99,
+      "nota": 4.1,
+      "imagem": "images/produto3.jpg",
+      "descricao": "A pá de bico Tramontina 416/20 em aço com cabo de madeira 71 cm com empunhadura plástica reta ergonômica é a ferramenta certa para auxiliar você em diferentes atividades. Projetada para trabalhos na agricultura, jardinagem e construção civil, ela apresenta características que fazem dela uma peça de alto nível. Produzida em aço carbono temperado, ela é cortada a laser, proporcionando alta qualidade e maior resistência. Mostrando mais seu diferencial, ela recebe pintura eletrostática a pó que protege contra oxidação. Traz ainda cabo de 71 centímetros em madeira envernizada que apresenta empunhadura plástica ergonômica, tornando o uso mais confortável, facilitando seu trabalho."
+    },
+    {
+      "id": "4",
+      "titulo": "Tijolo",
+      "preco": 0.59,
+      "nota": 4.9,
+      "imagem": "images/produto4.jpg",
+      "descricao": "O Tijolo 6 Furos Médio 9X14X19cm Catarina são blocos maciços que oferecem grande redução de custos em sua obra, e garante segurança e uma excelente aparência em seu assentamento. São bastante utilizados em construções de cômodos inteiros, paredes de cômodos que separam ambientes, residências, galpões e fábricas.."
+    },
+    {
+      "id": "5",
+      "titulo": "Bloco de Concreto",
+      "preco": 2.95,
+      "nota": 4.8,
+      "imagem": "images/produto5.jpg",
+      "descricao": "Bloco de concreto de construção civil de boa qualidade. 15x20x40"
+    },
+    {
+      "id": "6",
+      "titulo": "Cimento",
+      "preco": 25.99,
+      "nota": 4.6,
+      "imagem": "images/produto6.jpg",
+      "descricao": "O Cimento de Alta Qualidade é a escolha perfeita para quem busca resistência, durabilidade e excelente performance em obras de construção civil. Produzido conforme os padrões técnicos da ABNT, este cimento é ideal para uma ampla gama de aplicações, incluindo reboco, concreto convencional, contra pisos e lajes. Sua fórmula avançada, com silicatos de cálcio, alumínio e ferro, proporciona uma maior aderência, elasticidade e resistência, garantindo um acabamento impecável e duradouro."
+    },
+    {
+      "id": "7",
+      "titulo": "Tubo de Aço",
+      "preco": 65.96,
+      "nota": 4.9,
+      "imagem": "images/produto7.jpg",
+      "descricao": "Tubo aço carbono para rede de hidrante (redes contra incêndio), são especialmente utilizados na condução de fluídos. Os tubos são soldados por resistência elétrica de alta frequência, conferindo excelentes características mecânicas ao produto."
+    },
+    {
+      "id": "8",
+      "titulo": "Martelo",
+      "preco": 20.99,
+      "nota": 4.3,
+      "imagem": "images/produto8.jpg",
+      "descricao": "Martelo unha com cabo de madeira, com cabo de madeira tratada e envernizada, cabeça de aço forjado e temperado, para marceneiros, pedreiros, profissionais em geral."
+    },
+    {
+      "id": "9",
+      "titulo": "Colher de Pedreiro",
+      "preco": 17.5,
+      "nota": 4.2,
+      "imagem": "images/produto9.jpg",
+      "descricao": "Domine a arte da alvenaria com a Colher de Pedreiro Canto Reto Nº09 da Pacetta, a ferramenta ideal para profissionais experientes e iniciantes que buscam precisão, robustez e durabilidade em seus trabalhos. Essa colher possui um design de canto reto, que facilita a aplicação e a modelagem de argamassa em cantos e ângulos, garantindo um acabamento impecável e profissional. Ela é forjada em aço carbono de alta qualidade, que resiste a deformações e garante cortes precisos, mesmo em materiais mais rígidos. Além de um cabo de madeira ergonômico, que te proporciona uma pegada firme e confortável, reduzindo a fadiga e aumentando a produtividade durante o trabalho.A colher da Pacetta é ideal para assentar tijolos, blocos de concreto, cerâmicas e outros materiais de construção, você também pode utilizar para aplicação de argamassa em paredes, revestimentos e acabamentos, além de permitir que você possa nivelar e alisar superfícies de argamassa com precisão."
+    }
+  ]
+}
